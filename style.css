@@ -20,6 +20,9 @@
 .btn-go:hover {
   border: 1px solid #fff !important;
 }
+.btn-go a {
+    text-decoration: none !important;
+}
 .home-body {
   background-color: #010409;
   font-family: roboto;
