@@ -1,0 +1,110 @@
+.outer {
+  background: linear-gradient(135deg, #ff6b6b 50%, #161b22 50%);
+}
+.hero {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 5%;
+  border: 5px solid #fff;
+  box-shadow: 0 0 0 10px #ff6b6b;
+}
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 600;
+  color: #fff;
+}
+.hero p {
+  font-size: 1.2rem;
+  color: #fff;
+}
+.btn-go:hover {
+  border: 1px solid #fff !important;
+}
+.home-body {
+  background-color: #010409;
+  font-family: roboto;
+}
+.bg-custom {
+  background-color: #ff6b6b;
+}
+.navbar-custom {
+  color: #000;
+}
+.btn-download-nav a {
+  color: #000;
+  text-decoration: none;
+}
+.btn-download-nav {
+  border: 1px solid #000;
+}
+
+.btn-download-nav:hover {
+  box-shadow: 0px 2px 6px #000;
+}
+.section {
+  border: 1px solid #181e25;
+  border-radius: 7px;
+  background-color: #0d1117;
+  padding: 25px;
+  box-shadow: 0px 2px 6px #0d1117;
+}
+.skill-section {
+  border: 1px solid #181e25;
+  border-radius: 7px;
+  /* background-color: #0d1117; */
+  padding: 25px;
+  box-shadow: 0px 2px 6px #0d1117;
+}
+.education-section:hover,
+.experience-section:hover {
+  background-color: #0d1117;
+}
+.project-section,
+.experience-section,
+.education-section {
+  border: 1px solid #181e25;
+  border-radius: 7px;
+  padding: 25px;
+}
+.skill-section:hover {
+  background-color: #0d1117;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff;
+}
+h1 {
+  margin-bottom: 42px;
+}
+p,
+ul li {
+  color: gray;
+}
+.proficiency {
+  float: right;
+}
+.proficiency small {
+  color: #ff6b6b;
+}
+a {
+  text-decoration: none;
+}
+.btn-download a {
+  color: gray;
+}
+.btn-download {
+  border: 1px solid #ff6b6b;
+}
+.btn-download:hover {
+  border: 1px solid #ff6b6b;
+  box-shadow: 0px 2px 6px #d68383;
+}
+.fixed-bottom {
+  min-height: 50px;
+  height: 50px;
+  background-color: #ff6b6b;
+}
